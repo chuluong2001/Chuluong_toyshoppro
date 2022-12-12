@@ -69,7 +69,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-3 col-xs-2">
-					<div id="fh5co-logo"><a href="index.php">Ryn.</a></div>
+					<div id="fh5co-logo"><a href="index.php">ChuLuong</a></div>
 				</div>
 				<div class="col-md-6 col-xs-6 text-center menu-1">
 					<ul>
@@ -428,7 +428,7 @@
 		<div class="container" >
 			<div class="row row-pb-md">
 				<div class="col-md-4 fh5co-widget">
-					<h3>Ryn.</h3>
+					<h3>ChuLuong</h3>
 					<p>See you.</p>
 				</div>
 				<!-- <div class="col-md-2 col-sm-4 col-xs-6 col-md-push-1">
